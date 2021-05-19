@@ -11,10 +11,10 @@
 
 <h3>🔭 Have a look at my work 👇</h3>
 <a href="https://github.com/UjjwalSingh1908/">
-  <img alt="Ujjwal's Github" width="28px" src="./pngs/github.png" />
+  <img align="left" alt="Ujjwal's Github" width="28px" src="./pngs/github.png" />
 </a>
 <a href="https://www.behance.net/ujjwalsingh13">
-  <img alt="Ujjwal's Behance" width="28px" src="./svgs/behance.svg" />
+  <img align="left" alt="Ujjwal's Behance" width="28px" src="./svgs/behance.svg" />
 </a>
 <br/>
 
