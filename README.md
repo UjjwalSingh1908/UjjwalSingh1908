@@ -14,7 +14,7 @@
   <img alt="Ujjwal's Github" width="28px" src="./pngs/github.png" />
 </a>
 <a href="https://www.behance.net/ujjwalsingh13">
-  <img alt="Ujjwal's Behance" width="28px" src="./svgs/behance.png" />
+  <img alt="Ujjwal's Behance" width="28px" src="./svgs/behance.svg" />
 </a>
 <br/>
 
@@ -37,12 +37,12 @@
 <img align="left" alt="Ujjwal's Node" width="28px" src="./pngs/node.png" />
 <img align="left" alt="Ujjwal's HTML" width="28px" src="./svgs/html5.svg" />
 <img align="left" alt="Ujjwal's CSS" width="28px" src="./svgs/CSS.svg" />
+<img align="left" alt="Ujjwal's Sass" width="48px" src="./pngs/sass.png" />
 <img align="left" alt="Ujjwal's JS" width="28px" src="./pngs/js.png" />
 <img align="left" alt="Ujjwal's C++" width="28px" src="./svgs/c.svg" />
 <img align="left" alt="Ujjwal's Python" width="28px" src="./pngs/python.png" />
 <img align="left" alt="Ujjwal's Firebase" width="28px" src="./pngs/firebase.png" />
-<img align="left" alt="Ujjwal's MongoDB" width="28px" src="./pngs/mongodb.png" />
-<img align="left" alt="Ujjwal's CSS" width="28px" src="./svgs/clion.svg" />
+<img align="left" alt="Ujjwal's MongoDB" width="48px" src="./pngs/mongodb.png" />
 <img align="left" alt="Ujjwal's vs" width="28px" src="./svgs/vs.svg" />
 
 <br/>
